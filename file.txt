@@ -1,2 +1,1 @@
-local b1
-remote b1
+local b4
